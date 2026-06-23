@@ -4,7 +4,6 @@ This license grants a limited right to use the script and does not transfer owne
 
 
 **Permitted Uses, You are permitted to:**
-- Use the script in any Roblox game.
 - Run and integrate the script according to the author's instructions (if any).
 
 **Restrictions, You may not:**
